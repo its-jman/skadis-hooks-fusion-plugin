@@ -1,0 +1,13 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "addin",
+  "id": "6f8f9420-63f8-428b-b788-37b13ad47f7d",
+  "author": "Josh",
+  "description": {
+    "": "Add IKEA SKADIS pegboard hooks to a planar face."
+  },
+  "version": "1.0.0",
+  "runOnStartup": true,
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}
